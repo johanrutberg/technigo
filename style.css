@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+p{
+  color: aliceblue;
+}
+
+#description{
+  color:goldenrod;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+  font-style: italic;
+}
+
+h1 {
+  color: #0025FF;
+  font-size: xx-large;
+  padding-top: 20px;
+}
+
+h3 {
+  color: red;
+}
+
+.center {
+  text-align: center;
+}
+
+
+
+a:link, a:visited {
+  background-color: blue;
+  color: white;
+  padding: 30px 25px;
+  margin: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius:25px
+}
+
+a:hover, a:active {
+  background-color: goldenrod;
+  
+}
